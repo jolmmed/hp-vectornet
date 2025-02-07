@@ -8,14 +8,14 @@ imageLicense: |
 height: 70vh
 ---
 
-## Procris quippe mentior urbes ubi
+**Surveillance guidelines**
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+In previous iterations of VectorNet, the Vector group leaders, working with experts from across the region developed guidelines for the surveillance of different vector groups. These were summarised in the following document:
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+https://www.ecdc.europa.eu/en/publications-data/field-sampling-methods-mosquitoes-sandflies-biting-midges-and-ticks
+
+Additional guidelines are available for both invasive and native mosquitoes:
+
+https://www.ecdc.europa.eu/sites/default/files/media/en/publications/Publications/TER-Mosquito-surveillance-guidelines.pdf
+
+https://www.ecdc.europa.eu/sites/default/files/media/en/publications/Publications/surveillance-of%20native-mosquitoes%20-guidelines.pdf
